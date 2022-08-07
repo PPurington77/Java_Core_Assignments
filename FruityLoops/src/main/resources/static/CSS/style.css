@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	padding: 20px;
+}
+
+#container {
+	width: 50%;
+	margin: 10px auto;
+}
+h1 {
+	color: pink;
+	text-align: center;
+}
+
+table {
+	border: 50px solid pink;
+}
+
