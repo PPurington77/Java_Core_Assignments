@@ -18,7 +18,7 @@
 	<h1>Here's Your Omikuji!</h1>
 	<div id="container_oki">
 		<p>
-			In <c:out value="${number}" />years, you will live in <c:out 			value="${city}" /> with <c:out value="${ person}" /> as your roommate 			selling <c:out value="${hobby}" /> for a living. The next time you see a
+			In <c:out value="${number}" /> years, you will live in <c:out 			value="${city}" /> with <c:out value="${ person}" /> as your roommate 			selling <c:out value="${hobby}" /> for a living. The next time you see a
 			<c:out value="${living}" />, you will have good luck. Also, <c:out 			value="${message}"/>.
 		</p>
 	</div>
