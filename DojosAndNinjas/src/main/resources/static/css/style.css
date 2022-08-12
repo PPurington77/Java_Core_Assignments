@@ -1,0 +1,38 @@
+@charset "ISO-8859-1";
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+h1 {
+	color: dodgerblue;
+}
+
+#createButton {
+	margin: 10px 0px;
+}
+
+#container {
+	margin-top: 50px;
+}
+
+#ninjaContainer {
+	width: 30%;
+	margin: 10px auto;
+}
+
+#ninjaContainer input, label {
+	display: block;
+	margin: 10px 0px;
+}
+
+#viewContainer {
+	width: 40%;
+	margin: 10px auto;
+}
+
+h2 {
+	color: dodgerblue;
+}
