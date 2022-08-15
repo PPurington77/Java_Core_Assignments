@@ -1,0 +1,49 @@
+@charset "ISO-8859-1";
+
+@charset "ISO-8859-1";
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#container {
+	padding: 50px;
+	width: 60%;
+	margin: 0 auto;
+}
+
+#reg {
+	width: 25%;
+}
+
+#reg input {
+	display: block;
+	margin: 10px 0px;
+}
+
+#login {
+	width: 25%;
+}
+
+#login input {
+	display: block;
+	margin: 10px 0px;
+}
+
+#header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+#bigContainer {
+	width: 90%;
+	padding: 10px;
+	margin: 40px auto;
+}
+
+#cBook input{
+	display: block;
+}
